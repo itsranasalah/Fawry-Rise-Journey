@@ -1,4 +1,4 @@
-# 🛒 Fawry Quantum Internship Challenge 3 – E-Commerce System
+# 🛒 Fawry Quantum Internship Challenge – E-Commerce System
 
 ## 🚀 Overview
 This repository presents my solution for the **Fawry Rise Journey – Full Stack Development Internship Challenge**.
